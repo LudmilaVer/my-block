@@ -1,0 +1,32 @@
+.container {
+  padding: 50px;
+  background: linear-gradient(45deg, #ff9a9e, #fad0c4);
+  color: white;
+}
+
+.heading {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.content {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.backButton {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff; /* Синий цвет */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.backButton:hover {
+  background-color: #0056b3; /* Темно-синий цвет при наведении */
+}

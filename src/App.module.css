@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+  }
+  
+  .mainContent {
+    margin-left: 220px; /* Учитываем ширину боковой навигации */
+    padding: 20px;
+    flex: 1;
+  }

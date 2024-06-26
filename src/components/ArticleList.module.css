@@ -1,0 +1,31 @@
+.container {
+  padding: 50px;
+  background: linear-gradient(45deg, #667eea, #764ba2);
+  color: white;
+}
+
+.heading {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.listItem {
+  margin: 10px 0;
+}
+
+.link {
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.link:hover {
+  color: #ffcc00;
+}
